@@ -173,41 +173,7 @@ cursor: pointer;
 
 
 
-@media (min-width: 768px) {
-    nav{
-        height: 0%;
-    }
 
-    .navBar {
-        background-color: hsl(0, 69%, 64%); 
-        overflow: auto;
-        display: grid; 
-
-          
-    }
-    
-    .navBar a {
-       
-        color: #000000;  
-        padding: 6px ; 
-        text-decoration: none; 
-        font-weight: bolder;
-        font-size: small;
-    }
-    
-    .navBar a:hover {
-        color: hsl(0, 44%, 69%);
-    }
-    
-    /* Style for the logo/image */
-    .navBar a img {
-        height: 20px;
-        width: auto; 
-        margin-top: -3px; 
-    }
-
-
-}
 
 
 
